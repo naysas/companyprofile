@@ -5,25 +5,25 @@ Website yang di develop test case UJIKOM
 ## Fitur Yang Tersedia
 
 - Halaman Awal (Landing Page)
-      - Halaman Beranda
-      - About
-      - Blog
-      - Contact
+  - Halaman Beranda
+  - About
+  - Blog
+  - Contact
 - Authentication
-      - Login
+  - Login
 -Halaman Admin
-      - Halaman Kelola Pesan
-      - Halaman Kelola Blog/Artikel
-      - Halaman Kelola Konten About
-      - Halaman Kelola Services
-      - Halaman Kelola Banner
-      - Halaman Kelola User
+  - Halaman Kelola Pesan
+  - Halaman Kelola Blog/Artikel
+  - Halaman Kelola Konten About
+  - Halaman Kelola Services
+  - Halaman Kelola Banner
+  - Halaman Kelola User
 
 ## Akun Default Untuk Pengujian 
 
 - Admin
-      - Email : admin@gojek.com
-      - Password : 12345
+  - Email : admin@gojek.com
+  - Password : 12345
 
 ## ERD & Relasi Antar Tabel
 
@@ -35,14 +35,14 @@ Website yang di develop test case UJIKOM
 
 ## Teknologi Yang Digunakan
 
-        - Laravel 11
-        - Bootstrap v5.3.3
+     - Laravel 11
+     - Bootstrap v5.3.3
 
 ## Persyaratan Untuk Melakukan Instalasi
 
-        - PHP 8.1.0 & WEB Server (Apache)
-        - Database (MySQL)
-        - Web Browser (Chrome, Edge, & Safari)
+     - PHP 8.1.0 & WEB Server (Apache)
+     - Database (MySQL)
+     - Web Browser (Chrome, Edge, & Safari)
 
         
 
