@@ -31,7 +31,7 @@ Website yang di develop test case UJIKOM
 
 ## UML Diagram Use Case
 
-![Screenshot 2024-09-25 190442](https://github.com/user-attachments/assets/b6aaf542-24d8-46c7-835c-c019ec39b0f4)
+![WhatsApp Image 2024-09-25 at 9 46 04 PM](https://github.com/user-attachments/assets/c86af1e0-a566-4e57-8876-a36d03276067)
 
 
 
