@@ -1,6 +1,6 @@
 ## Web Company Profile GOJEK
 
-Website yang di develop test case UJIKOM
+Website untuk UJIKOM
 
 ## Fitur Yang Tersedia
 
@@ -15,7 +15,6 @@ Website yang di develop test case UJIKOM
   - Halaman Kelola Pesan
   - Halaman Kelola Blog/Artikel
   - Halaman Kelola Konten About
-  - Halaman Kelola Services
   - Halaman Kelola Banner
   - Halaman Kelola User
 
