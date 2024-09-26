@@ -6,7 +6,6 @@ Website untuk UJIKOM
 
 - Halaman Awal (Landing Page)
   - Halaman Beranda
-  - About
   - Blog
   - Contact
 - Authentication
@@ -14,7 +13,6 @@ Website untuk UJIKOM
 - Halaman Admin
   - Halaman Kelola Pesan
   - Halaman Kelola Blog/Artikel
-  - Halaman Kelola Konten About
   - Halaman Kelola Banner
   - Halaman Kelola User
 
