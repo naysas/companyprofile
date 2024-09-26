@@ -10,8 +10,8 @@ Website untuk UJIKOM
   - Blog
   - Contact
 - Authentication
-  - Login 
--Halaman Admin
+  - Login
+- Halaman Admin
   - Halaman Kelola Pesan
   - Halaman Kelola Blog/Artikel
   - Halaman Kelola Konten About
