@@ -29,7 +29,7 @@ Website untuk UJIKOM
 
 ## UML Diagram Use Case
 
-![WhatsApp Image 2024-09-25 at 9 46 04 PM](https://github.com/user-attachments/assets/c86af1e0-a566-4e57-8876-a36d03276067)
+![Screenshot 2024-09-26 210448](https://github.com/user-attachments/assets/8949deff-cb7f-4a59-b712-44d3cbc18869)
 
 ## Teknologi Yang Digunakan
 
