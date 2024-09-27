@@ -24,7 +24,8 @@ Website untuk UJIKOM
 
 ## ERD & Relasi Antar Tabel
 
-![WhatsApp Image 2024-09-25 at 8 55 52 PM](https://github.com/user-attachments/assets/486976bf-3bc9-47b9-a21b-4d4cd39384a7)
+![Screenshot (32)](https://github.com/user-attachments/assets/7886178f-8fae-4320-86c4-453b43be7cd8)
+
 
 ## UML Diagram Use Case
 
